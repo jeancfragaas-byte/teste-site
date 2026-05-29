@@ -1,0 +1,6 @@
+{
+  "name": "Método Aprovação Social",
+  "description": "Mentoria para Concursos de Serviço Social com Marcos Vinícius Almeida. Estratégia, disciplina e prática para conquistar sua aprovação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
